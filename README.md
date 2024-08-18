@@ -59,13 +59,10 @@ This project utilizes Python to analyze song lyrics from `.lrc` files. It focuse
    pip install -r requirements.txt
    ```
 
-   (If you don't have a `requirements.txt` file, here’s a simple one you could create based on your project:)
+   (If you `requirements.txt` method is not work, here’s a another approach to install the packages)
 
    ```txt
-   nltk
-   matplotlib
-   plotly
-   wordcloud
+   pip install nltk matplotlib plotly wordcloud
    ```
 
 3. **Run the Project**
