@@ -1,6 +1,8 @@
 # **Song Lyrics NLP Analysis**
 
 This project involves analyzing song lyrics using Natural Language Processing (NLP) techniques. The project processes song lyrics from `.lrc` files, performs sentiment analysis, generates word clouds, and visualizes word distributions using a Sankey diagram.
+![1](https://github.com/user-attachments/assets/fa8acc03-efa6-4129-afcf-c7e45ea8a93a)
+
 
 ## **Project Structure**
 
