@@ -1,6 +1,8 @@
 # **Song Lyrics NLP Analysis**
 
 This project involves analyzing song lyrics using Natural Language Processing (NLP) techniques. The project processes song lyrics from `.lrc` files, performs sentiment analysis, generates word clouds, and visualizes word distributions using a Sankey diagram.
+![1](https://github.com/user-attachments/assets/fa8acc03-efa6-4129-afcf-c7e45ea8a93a)
+
 
 ## **Project Structure**
 
@@ -57,13 +59,10 @@ This project utilizes Python to analyze song lyrics from `.lrc` files. It focuse
    pip install -r requirements.txt
    ```
 
-   (If you don't have a `requirements.txt` file, here’s a simple one you could create based on your project:)
+   (If you `requirements.txt` method is not work, here’s a another approach to install the packages)
 
    ```txt
-   nltk
-   matplotlib
-   plotly
-   wordcloud
+   pip install nltk matplotlib plotly wordcloud
    ```
 
 3. **Run the Project**
