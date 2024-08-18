@@ -84,10 +84,12 @@ This project utilizes Python to analyze song lyrics from `.lrc` files. It focuse
 ## **Generated Visualizations**
 
 - **`word_clouds.png`**: Word clouds generated from the lyrics.
-- ![wordcount_sankey](https://github.com/user-attachments/assets/26774774-8c6b-43d3-bd37-1632cb4f9d1b)
-
+- ![word_clouds](https://github.com/user-attachments/assets/b070975a-b709-4a19-b935-4b179e18777d)
 - **`sentiment_comparison_plot.png`**: Bar chart comparing sentiment scores across songs.
+- ![sentiment_comparison_plot](https://github.com/user-attachments/assets/e918df19-7b33-438a-875d-9302ab592cb6)
 - **`sankey_diagram.png`**: Sankey diagram showing word distribution across songs.
+- ![wordcount_sankey](https://github.com/user-attachments/assets/925187d8-baf0-43e0-b9a7-b92495823280)
+
 
 ## **License**
 
