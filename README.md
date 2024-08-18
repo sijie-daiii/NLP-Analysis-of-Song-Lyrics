@@ -48,7 +48,7 @@ This project utilizes Python to analyze song lyrics from `.lrc` files. It focuse
 
    ```bash
    git clone https://github.com/sijie-daiii/NLP-Analysis-of-Song-Lyrics
-   cd your-repo-name
+   cd NLP-Analysis-of-Song-Lyrics
    ```
 
 2. **Install Dependencies**
